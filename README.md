@@ -14,7 +14,7 @@ Pre-requisites:
   - See screenshot below for terminal output
 
 ## Example output on the terminal
-readme_images/to_lower_img.png
+![Output](/readme_images/to_lower_img.png)
 
 ## Energy assessment and assumptions
 9/27/2024:  An assessment has not been made regarding the energy (kWh) tradeoffs and costs associated with addressing
